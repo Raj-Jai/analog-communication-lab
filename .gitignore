@@ -1,0 +1,10 @@
+# Build / OS artifacts
+*.aux
+*.log
+*.out
+*.toc
+.DS_Store
+.vscode/
+.idea/
+*~
+Thumbs.db
